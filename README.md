@@ -1,10 +1,6 @@
-nix mehr
-
-ich schreib jetzt in main
-
-zweiterBranch schreibt was
+alles weg in main
 
 
 BranchVomBranch scgreibt viiiiiiiieeeeeeel
 
-uuuund noch mmmmmmmeeeehhhhhrrr qqqqqqqqqq
+uuuund noch mmmmmmmeeeehhhhhrrr tttttttttttttt
